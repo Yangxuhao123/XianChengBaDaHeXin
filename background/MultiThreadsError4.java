@@ -13,6 +13,7 @@ public class MultiThreadsError4 {
         Thread.sleep(105);
         if (point != null) {
             System.out.println(point);
+            System.out.println(point);
         }
     }
 }
