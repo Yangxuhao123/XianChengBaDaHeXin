@@ -14,6 +14,7 @@ public class MultiThreadsError4 {
         if (point != null) {
             System.out.println(point);
             System.out.println(point);
+            System.out.println(point);
         }
     }
 }
